@@ -55,7 +55,6 @@ Press [A] to set spray time. There is no default value for the spray time, so if
 When setting the spray time, decimals can be set to a maximum of two decimal places. Press [*] to print a decimal point.
 
 The spray time example shown below was set to 1.5 seconds.
-
 ![Spray Time](pictures/Spray Time.jpg)
 
 When finished setting, press [#] to confirm and you will be back to "New Procedure" page after a while.
@@ -63,7 +62,6 @@ When finished setting, press [#] to confirm and you will be back to "New Procedu
 #### Number of Sprays
 
 Press [B] to set the number of Sprays. The default value is 1, which means that if no value was input, the machine will spray the specimen for only once.
-
 ![Number of Sprays](pictures/Number of Sprays.jpg)
 
 When finished setting, press [#] to confirm and you will be back to "New Procedure" page after a while.
@@ -73,7 +71,6 @@ When finished setting, press [#] to confirm and you will be back to "New Procedu
 Press [C] to set degree of turn. It is used to control the motor. The default value is 0, which means that if no value was input, the machine will not rotate the specimen in this procedure. The range of the degree of turn is 0°-360°.
 
 The example shown the degree of turn below was 45°.
-
 ![Degree of Turn](pictures/Degree of Turn.jpg)
 
 Press [#] to confirm. Then you will need to set the rotate direction. Just choose as required.
@@ -87,7 +84,6 @@ In the "New Procedure" screen , press [A], [B] or [C] to view the parameters tha
 In the "New Procedure" Screen, press [#] to run the procedure according to the parameters. The machine will first check the check the validity of the parameter and then move according to them. If one of the parameters is invalid, the machine will report an error and return to "New Procedure" screen.
 
 When the execution is finished, press [#] to repeat the procedure and [D] to back to the Main Menu. 
-
 ![Execution Finished](pictures/Execution Finished.jpg)
 
 #### Save Procedure
@@ -105,9 +101,7 @@ C. Bobbins
 Select the location where you want to save and the machine will perform the save operation.
 
 The saving target example below was [C]Bobbins.
-
 ![Saving](pictures/Saving.jpg)
-
 ![Saved](pictures/Saved.jpg)
 
 When saving is finished, you will be back to Main Menu for a while.
@@ -135,7 +129,6 @@ In "Saved Procedure" screen, press [D] and the title will be changed to "Delete 
 The delete target example below was [C]Bobbins.
 
 ![Delete Setting](pictures/Delete Setting.jpg)
-
 ![Setting Cleared](pictures/Setting Cleared.jpg)
 
 After a setting was cleared, you will be back to Main Menu after a while.
