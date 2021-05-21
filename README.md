@@ -33,6 +33,7 @@ B. Saved Procedure
 C. Sample Temperature
 
 Press the keypad buttons to access the corresponding function.
+
 ![Main Menu](pictures/Main Menu.jpg)
 
 ### New Procedure
@@ -62,6 +63,7 @@ When finished setting, press [#] to confirm and you will be back to "New Procedu
 #### Number of Sprays
 
 Press [B] to set the number of Sprays. The default value is 1, which means that if no value was input, the machine will spray the specimen for only once.
+
 ![Number of Sprays](pictures/Number of Sprays.jpg)
 
 When finished setting, press [#] to confirm and you will be back to "New Procedure" page after a while.
@@ -84,6 +86,7 @@ In the "New Procedure" screen , press [A], [B] or [C] to view the parameters tha
 In the "New Procedure" Screen, press [#] to run the procedure according to the parameters. The machine will first check the check the validity of the parameter and then move according to them. If one of the parameters is invalid, the machine will report an error and return to "New Procedure" screen.
 
 When the execution is finished, press [#] to repeat the procedure and [D] to back to the Main Menu. 
+
 ![Execution Finished](pictures/Execution Finished.jpg)
 
 #### Save Procedure
