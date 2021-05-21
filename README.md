@@ -33,7 +33,6 @@ B. Saved Procedure
 C. Sample Temperature
 
 Press the keypad buttons to access the corresponding function.
-
 ![Main Menu](pictures/Main Menu.jpg)
 
 ### New Procedure
