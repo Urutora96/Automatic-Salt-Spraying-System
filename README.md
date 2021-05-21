@@ -14,11 +14,11 @@ The purpose of setting this function before booting up is that each time the noz
 
 The calibration interface will be shown as below, press [#] to calibrate, [*] to skip
 
-![Calibration1](https://github.com/Urutora96/Automatic-Salt-Spraying-System/tree/master/pictures/Calibration1.jpg)
+![Calibration1](pictures/Calibration1.jpg)
 
 When entering the calibration process, you will allow to adjust the position of the servo. The default position of the servo is 100. Press [A] or [B] to adjust the position in 1 degree intervals. The position range for the servo is 40°-180°.
 
-![Calibration2](https://github.com/Urutora96/Automatic-Salt-Spraying-System/tree/master/pictures/Calibration2.jpg)
+![Calibration2](pictures/Calibration2.jpg)
 
 The servo calibration is complete when the cam is just touching the spray button. Press [#] to confirm and the correction position value will be automatically saved. It is suggested that a calibration is carried out after each installation of the spray bottle.
 
@@ -34,7 +34,7 @@ C. Sample Temperature
 
 Press the keypad buttons to access the corresponding function.
 
-![Main Menu](https://github.com/Urutora96/Automatic-Salt-Spraying-System/tree/master/pictures/Main Menu.jpg)
+![Main Menu](pictures/Main Menu.jpg)
 
 ### New Procedure
 
